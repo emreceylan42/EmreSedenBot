@@ -1,8 +1,8 @@
 Seden UserBot
 ==
 
-![GitHub repo size](https://img.shields.io/github/repo-size/TeamDerUntergang/Telegram-SedenUserBot?color=brightgreen)
-![GitHub](https://img.shields.io/github/license/TeamDerUntergang/Telegram-SedenUserBot?color=red)
+![GitHub repo size](https://img.shields.io/github/repo-size/emreceylan42/Telegram-SedenUserBot?color=brightgreen)
+![GitHub](https://img.shields.io/github/license/emreceylan42/Telegram-SedenUserBot?color=red)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 Telegram Python Bot running on Python3 with a Postgresql Sqlalchemy database. It is an modular and simple to use bot.
@@ -21,7 +21,7 @@ Telegram Python Bot running on Python3 with a Postgresql Sqlalchemy database. It
 ## Run Bot
 ```bash
 # Clone repo
-git clone https://github.com/TeamDerUntergang/Telegram-SedenUserBot.git
+git clone https://github.com/emreceylan42/Telegram-SedenUserBot.git
 cd Telegram-SedenUserBot
 
 # Install pip dependencies
@@ -40,7 +40,7 @@ python3 seden.py
 Just type `nix-shell` command in bot folder.
 
 ## Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDerUntergang/Telegram-SedenUserBot/tree/seden)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/emreceylan42/Telegram-SedenUserBot/tree/seden)
 
 If you have any requests & complaints & suggestions, you can join our [support group](https://t.me/SedenUserBotSupport) or please contact us through a [GitHub issue](https://github.com/TeamDerUntergang/Telegram-SedenUserBot/issues).
 
